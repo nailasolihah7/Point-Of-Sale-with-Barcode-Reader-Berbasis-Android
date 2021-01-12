@@ -1,4 +1,6 @@
-This application made for thesis purposes. This application is built with the Java programming language in sofware Android Studio. 
+This application made for thesis purposes. This application is built with the Java programming language in sofware Android Studio, database MySql, PHP, HTML, API (Application Programming Language), JSON Parsing (with HTMLconnection the information contained in the website can be displayed in a this application), Library Zebra crossing (ZXing) for build barcode scanner.
+
+
 Feature this aplication:
 - transaction with barcode reader 
 - automation calculating transaction
